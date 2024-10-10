@@ -7,7 +7,7 @@ export default function Home() {
       <p className="description">
         We are launching a new Luksoverse website later this year.
       </p>
-      <Link href="/contribute" className="button-contribute">
+      <Link href="https://github.com/Luksoverse/" className="button-contribute">
         Read here how to contribute
       </Link>
       <p className="description">
