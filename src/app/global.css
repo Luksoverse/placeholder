@@ -171,8 +171,8 @@ body {
 }
 
 .column .social-links {
-  min-height: 420px;
+  min-height: 504px;
   display: grid;
-  grid-template-rows: repeat(5, 1fr);
+  grid-template-rows: repeat(6, 1fr);
   gap: 1rem;
 }

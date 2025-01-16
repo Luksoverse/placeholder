@@ -45,6 +45,11 @@ export default function Home() {
                 <span className="icon">👤</span>
                 Universal Profile
               </a>
+
+              <a href="https://docs.luksoverse.io" className="social-link docs">
+                <span className="icon"><DocsIcon /></span>
+                Community Docs
+              </a>
               
               <a href="https://twitter.com/luksoverse_io" className="social-link twitter">
                 <span className="icon">𝕏</span>
@@ -74,6 +79,11 @@ export default function Home() {
               <a href="https://lukso.network" className="social-link website">
                 <span className="icon"><WebsiteIcon /></span>
                 Website
+              </a>
+
+              <a href="https://docs.lukso.tech" className="social-link docs">
+                <span className="icon"><DocsIcon /></span>
+                Documentation
               </a>
 
               <a href="https://twitter.com/lukso_io" className="social-link twitter">
